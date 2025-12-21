@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YASHI0211/Java-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Sorting
 |  |
