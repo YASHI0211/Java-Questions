@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/YASHI0211/Java-Questions/tree/master/0260-single-number-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/YASHI0211/Java-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
 | ------- |
