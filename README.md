@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0078-subsets](https://github.com/YASHI0211/Java-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/YASHI0211/Java-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0137-single-number-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
 ## Depth-First Search
 |  |
