@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YASHI0211/Java-Questions/tree/master/0136-single-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YASHI0211/Java-Questions/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
