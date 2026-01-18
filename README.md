@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/0941-valid-mountain-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1095-find-in-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/1095-find-in-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YASHI0211/Java-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/YASHI0211/Java-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YASHI0211/Java-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/1095-find-in-mountain-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0191-number-of-1-bits) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
