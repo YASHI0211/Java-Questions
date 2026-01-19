@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1095-find-in-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/1095-find-in-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/YASHI0211/Java-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YASHI0211/Java-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/YASHI0211/Java-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YASHI0211/Java-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/YASHI0211/Java-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Math
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YASHI0211/Java-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/1095-find-in-mountain-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/YASHI0211/Java-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/YASHI0211/Java-Questions/tree/master/1095-find-in-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/YASHI0211/Java-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
