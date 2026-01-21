@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/YASHI0211/Java-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/YASHI0211/Java-Questions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/YASHI0211/Java-Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/YASHI0211/Java-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/YASHI0211/Java-Questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/YASHI0211/Java-Questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/YASHI0211/Java-Questions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/YASHI0211/Java-Questions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
