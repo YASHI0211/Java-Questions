@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YASHI0211/Java-Questions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/YASHI0211/Java-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YASHI0211/Java-Questions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/YASHI0211/Java-Questions/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YASHI0211/Java-Questions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/YASHI0211/Java-Questions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/YASHI0211/Java-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
