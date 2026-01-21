@@ -144,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/YASHI0211/Java-Questions/tree/master/0112-path-sum) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/YASHI0211/Java-Questions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/YASHI0211/Java-Questions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/YASHI0211/Java-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/YASHI0211/Java-Questions/tree/master/0200-number-of-islands) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/YASHI0211/Java-Questions/tree/master/0112-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0112-path-sum](https://github.com/YASHI0211/Java-Questions/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/YASHI0211/Java-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/YASHI0211/Java-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/YASHI0211/Java-Questions/tree/master/0207-course-schedule) |
