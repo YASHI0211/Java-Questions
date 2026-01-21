@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/YASHI0211/Java-Questions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YASHI0211/Java-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/YASHI0211/Java-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/YASHI0211/Java-Questions/tree/master/0049-group-anagrams) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/YASHI0211/Java-Questions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/YASHI0211/Java-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/YASHI0211/Java-Questions/tree/master/0091-decode-ways) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/YASHI0211/Java-Questions/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
