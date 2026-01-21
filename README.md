@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YASHI0211/Java-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/YASHI0211/Java-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/YASHI0211/Java-Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/YASHI0211/Java-Questions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/YASHI0211/Java-Questions/tree/master/0125-valid-palindrome) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/YASHI0211/Java-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/YASHI0211/Java-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0137-single-number-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/YASHI0211/Java-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/YASHI0211/Java-Questions/tree/master/0171-excel-sheet-column-number) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
