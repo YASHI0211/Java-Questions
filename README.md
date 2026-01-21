@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/YASHI0211/Java-Questions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/YASHI0211/Java-Questions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/YASHI0211/Java-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YASHI0211/Java-Questions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/YASHI0211/Java-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/YASHI0211/Java-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/YASHI0211/Java-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/YASHI0211/Java-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YASHI0211/Java-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
