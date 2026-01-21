@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/YASHI0211/Java-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/YASHI0211/Java-Questions/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/YASHI0211/Java-Questions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/YASHI0211/Java-Questions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/YASHI0211/Java-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YASHI0211/Java-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YASHI0211/Java-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/YASHI0211/Java-Questions/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/YASHI0211/Java-Questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/YASHI0211/Java-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0137-single-number-ii) |
