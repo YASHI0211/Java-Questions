@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/YASHI0211/Java-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/YASHI0211/Java-Questions/tree/master/0205-isomorphic-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1143-longest-common-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/1143-longest-common-subsequence) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/YASHI0211/Java-Questions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/YASHI0211/Java-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/YASHI0211/Java-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
