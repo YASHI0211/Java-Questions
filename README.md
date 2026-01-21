@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YASHI0211/Java-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/YASHI0211/Java-Questions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/YASHI0211/Java-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/YASHI0211/Java-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -263,4 +264,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
