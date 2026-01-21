@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/YASHI0211/Java-Questions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/YASHI0211/Java-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/YASHI0211/Java-Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/YASHI0211/Java-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
