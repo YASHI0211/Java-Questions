@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/YASHI0211/Java-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YASHI0211/Java-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/YASHI0211/Java-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/YASHI0211/Java-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
