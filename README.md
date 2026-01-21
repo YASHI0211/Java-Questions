@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/YASHI0211/Java-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/YASHI0211/Java-Questions/tree/master/0205-isomorphic-strings) |
 | [0212-word-search-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0212-word-search-ii) |
+| [0227-basic-calculator-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/YASHI0211/Java-Questions/tree/master/0383-ransom-note) |
 | [0763-partition-labels](https://github.com/YASHI0211/Java-Questions/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/YASHI0211/Java-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/YASHI0211/Java-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0227-basic-calculator-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/YASHI0211/Java-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0227-basic-calculator-ii) |
 | [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
