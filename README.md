@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/YASHI0211/Java-Questions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/YASHI0211/Java-Questions/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/YASHI0211/Java-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -263,10 +265,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
