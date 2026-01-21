@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/YASHI0211/Java-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/YASHI0211/Java-Questions/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/YASHI0211/Java-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/YASHI0211/Java-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
