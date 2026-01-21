@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/YASHI0211/Java-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/YASHI0211/Java-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YASHI0211/Java-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -186,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
