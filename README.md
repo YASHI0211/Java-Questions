@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/YASHI0211/Java-Questions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/YASHI0211/Java-Questions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/YASHI0211/Java-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/YASHI0211/Java-Questions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/YASHI0211/Java-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASHI0211/Java-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/YASHI0211/Java-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/YASHI0211/Java-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASHI0211/Java-Questions/tree/master/0160-intersection-of-two-linked-lists) |
