@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/YASHI0211/Java-Questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/YASHI0211/Java-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/YASHI0211/Java-Questions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/YASHI0211/Java-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YASHI0211/Java-Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/YASHI0211/Java-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/YASHI0211/Java-Questions/tree/master/0055-jump-game) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/YASHI0211/Java-Questions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/YASHI0211/Java-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YASHI0211/Java-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/YASHI0211/Java-Questions/tree/master/0069-sqrtx) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/YASHI0211/Java-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/YASHI0211/Java-Questions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/YASHI0211/Java-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/YASHI0211/Java-Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/YASHI0211/Java-Questions/tree/master/0200-number-of-islands) |
