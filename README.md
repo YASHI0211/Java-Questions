@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/YASHI0211/Java-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASHI0211/Java-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -444,4 +449,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YASHI0211/Java-Questions/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
