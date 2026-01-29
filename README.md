@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0763-partition-labels](https://github.com/YASHI0211/Java-Questions/tree/master/0763-partition-labels) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/YASHI0211/Java-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/YASHI0211/Java-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASHI0211/Java-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/YASHI0211/Java-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search Tree
 |  |
