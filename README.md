@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YASHI0211/Java-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
 |  |
 | ------- |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0076-minimum-window-substring) |
+| [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Stack
 |  |
 | ------- |
