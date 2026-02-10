@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/YASHI0211/Java-Questions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/YASHI0211/Java-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/YASHI0211/Java-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/YASHI0211/Java-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0212-word-search-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YASHI0211/Java-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/YASHI0211/Java-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/YASHI0211/Java-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/YASHI0211/Java-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YASHI0211/Java-Questions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/YASHI0211/Java-Questions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/YASHI0211/Java-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASHI0211/Java-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/YASHI0211/Java-Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/YASHI0211/Java-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/YASHI0211/Java-Questions/tree/master/0217-contains-duplicate) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YASHI0211/Java-Questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YASHI0211/Java-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/YASHI0211/Java-Questions/tree/master/0383-ransom-note) |
 ## Quickselect
