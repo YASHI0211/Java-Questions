@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/YASHI0211/Java-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/YASHI0211/Java-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/YASHI0211/Java-Questions/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/YASHI0211/Java-Questions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YASHI0211/Java-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/YASHI0211/Java-Questions/tree/master/0724-find-pivot-index) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/YASHI0211/Java-Questions/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/YASHI0211/Java-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/YASHI0211/Java-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/YASHI0211/Java-Questions/tree/master/0763-partition-labels) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -429,10 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0227-basic-calculator-ii) |
+| [0496-next-greater-element-i](https://github.com/YASHI0211/Java-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/YASHI0211/Java-Questions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YASHI0211/Java-Questions/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
