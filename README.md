@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/YASHI0211/Java-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/YASHI0211/Java-Questions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/YASHI0211/Java-Questions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/YASHI0211/Java-Questions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YASHI0211/Java-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YASHI0211/Java-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/YASHI0211/Java-Questions/tree/master/0724-find-pivot-index) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/YASHI0211/Java-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0212-word-search-ii) |
 | [0463-island-perimeter](https://github.com/YASHI0211/Java-Questions/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/YASHI0211/Java-Questions/tree/master/0498-diagonal-traverse) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/YASHI0211/Java-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1672-richest-customer-wealth](https://github.com/YASHI0211/Java-Questions/tree/master/1672-richest-customer-wealth) |
 ## Recursion
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/YASHI0211/Java-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
+| [0498-diagonal-traverse](https://github.com/YASHI0211/Java-Questions/tree/master/0498-diagonal-traverse) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
