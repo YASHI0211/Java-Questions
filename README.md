@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/YASHI0211/Java-Questions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/YASHI0211/Java-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/YASHI0211/Java-Questions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/YASHI0211/Java-Questions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/YASHI0211/Java-Questions/tree/master/0260-single-number-iii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/YASHI0211/Java-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/YASHI0211/Java-Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/YASHI0211/Java-Questions/tree/master/0383-ransom-note) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/YASHI0211/Java-Questions/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0219-contains-duplicate-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Stack
 |  |
