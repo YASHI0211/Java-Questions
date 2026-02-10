@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0227-basic-calculator-ii) |
+| [0306-additive-number](https://github.com/YASHI0211/Java-Questions/tree/master/0306-additive-number) |
 | [0383-ransom-note](https://github.com/YASHI0211/Java-Questions/tree/master/0383-ransom-note) |
 | [0551-student-attendance-record-i](https://github.com/YASHI0211/Java-Questions/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/YASHI0211/Java-Questions/tree/master/0564-find-the-closest-palindrome) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/YASHI0211/Java-Questions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/YASHI0211/Java-Questions/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/YASHI0211/Java-Questions/tree/master/0306-additive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
