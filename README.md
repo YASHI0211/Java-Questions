@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/YASHI0211/Java-Questions/tree/master/0383-ransom-note) |
 | [0551-student-attendance-record-i](https://github.com/YASHI0211/Java-Questions/tree/master/0551-student-attendance-record-i) |
+| [0564-find-the-closest-palindrome](https://github.com/YASHI0211/Java-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0763-partition-labels](https://github.com/YASHI0211/Java-Questions/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1143-longest-common-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/1143-longest-common-subsequence) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
 | [0492-construct-the-rectangle](https://github.com/YASHI0211/Java-Questions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/YASHI0211/Java-Questions/tree/master/0509-fibonacci-number) |
+| [0564-find-the-closest-palindrome](https://github.com/YASHI0211/Java-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YASHI0211/Java-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/YASHI0211/Java-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
