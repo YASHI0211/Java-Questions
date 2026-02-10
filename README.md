@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/YASHI0211/Java-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
 | ------- |
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/YASHI0211/Java-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
