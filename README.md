@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/YASHI0211/Java-Questions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/YASHI0211/Java-Questions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASHI0211/Java-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/YASHI0211/Java-Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/YASHI0211/Java-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/YASHI0211/Java-Questions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YASHI0211/Java-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/YASHI0211/Java-Questions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/YASHI0211/Java-Questions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/YASHI0211/Java-Questions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/YASHI0211/Java-Questions/tree/master/0217-contains-duplicate) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/YASHI0211/Java-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/YASHI0211/Java-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/YASHI0211/Java-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/YASHI0211/Java-Questions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/YASHI0211/Java-Questions/tree/master/0258-add-digits) |
