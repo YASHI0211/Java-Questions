@@ -495,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/YASHI0211/Java-Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
