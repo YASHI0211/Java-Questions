@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YASHI0211/Java-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YASHI0211/Java-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YASHI0211/Java-Questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YASHI0211/Java-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YASHI0211/Java-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Hash Table
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/YASHI0211/Java-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/YASHI0211/Java-Questions/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YASHI0211/Java-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Geometry
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/YASHI0211/Java-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/YASHI0211/Java-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Graph Theory
