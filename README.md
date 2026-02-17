@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/YASHI0211/Java-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/YASHI0211/Java-Questions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/YASHI0211/Java-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/YASHI0211/Java-Questions/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/YASHI0211/Java-Questions/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/YASHI0211/Java-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/YASHI0211/Java-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/YASHI0211/Java-Questions/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/YASHI0211/Java-Questions/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/YASHI0211/Java-Questions/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
