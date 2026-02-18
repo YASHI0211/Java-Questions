@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/YASHI0211/Java-Questions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YASHI0211/Java-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/YASHI0211/Java-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YASHI0211/Java-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YASHI0211/Java-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/YASHI0211/Java-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/YASHI0211/Java-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/YASHI0211/Java-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YASHI0211/Java-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YASHI0211/Java-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YASHI0211/Java-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/YASHI0211/Java-Questions/tree/master/0383-ransom-note) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YASHI0211/Java-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Quickselect
 |  |
 | ------- |
