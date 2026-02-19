@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/YASHI0211/Java-Questions/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2285-maximum-total-importance-of-roads](https://github.com/YASHI0211/Java-Questions/tree/master/2285-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YASHI0211/Java-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2285-maximum-total-importance-of-roads](https://github.com/YASHI0211/Java-Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YASHI0211/Java-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/YASHI0211/Java-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2285-maximum-total-importance-of-roads](https://github.com/YASHI0211/Java-Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/YASHI0211/Java-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0210-course-schedule-ii) |
 | [1791-find-center-of-star-graph](https://github.com/YASHI0211/Java-Questions/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/YASHI0211/Java-Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/YASHI0211/Java-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
