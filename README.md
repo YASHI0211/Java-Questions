@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/YASHI0211/Java-Questions/tree/master/0551-student-attendance-record-i) |
 | [0564-find-the-closest-palindrome](https://github.com/YASHI0211/Java-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0696-count-binary-substrings](https://github.com/YASHI0211/Java-Questions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/YASHI0211/Java-Questions/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/YASHI0211/Java-Questions/tree/master/0763-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/YASHI0211/Java-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1143-longest-common-subsequence](https://github.com/YASHI0211/Java-Questions/tree/master/1143-longest-common-subsequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/YASHI0211/Java-Questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/YASHI0211/Java-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/YASHI0211/Java-Questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/YASHI0211/Java-Questions/tree/master/0761-special-binary-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/YASHI0211/Java-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YASHI0211/Java-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2285-maximum-total-importance-of-roads](https://github.com/YASHI0211/Java-Questions/tree/master/2285-maximum-total-importance-of-roads) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/YASHI0211/Java-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/YASHI0211/Java-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/YASHI0211/Java-Questions/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
