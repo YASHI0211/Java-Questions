@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/YASHI0211/Java-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YASHI0211/Java-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/YASHI0211/Java-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YASHI0211/Java-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/YASHI0211/Java-Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/YASHI0211/Java-Questions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2285-maximum-total-importance-of-roads](https://github.com/YASHI0211/Java-Questions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/YASHI0211/Java-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YASHI0211/Java-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/YASHI0211/Java-Questions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/YASHI0211/Java-Questions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/YASHI0211/Java-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/YASHI0211/Java-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/YASHI0211/Java-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/YASHI0211/Java-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Recursion
 |  |
 | ------- |
